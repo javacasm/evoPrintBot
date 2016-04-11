@@ -1,4 +1,4 @@
-# evoPrintBot  v0.5
+# evoPrintBot  v0.6
 
 
 Se trata de una simplificación del robot [Evolution de Bq](https://github.com/bq/printbots/tree/master/Evolution)
